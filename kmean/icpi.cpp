@@ -1,7 +1,7 @@
 
 /*
-*  
-*      
+* Parallel k-means clustering iteration
+*  with: MPI, Cuda, OpenMp    
 */
 
 #include<mpi.h>
